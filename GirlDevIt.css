@@ -1,0 +1,51 @@
+/*
+* Celea Ransom
+* 12/4/18
+* Girl Develop It 
+*/
+
+/* The universal selector */
+
+*  {
+
+}
+
+/* Body attributes here */
+
+body {
+    font-family:sans-serif;
+    background-color:#FAE3E0;
+}
+/*the image is centered using text-align*/ 
+Header {
+    background-color:#EA4954;
+    text-align:center;
+}
+/*the headings use the font family cursive.*/ 
+h1{
+    font-family:cursive;
+}
+h2 {
+    font-family:cursive;
+}
+/*IDs are used to use only one of the images or paragraphs*/
+#girls {
+    float: right;
+    height: 250px;
+    width: 500px;
+}
+#bf {
+    float: right;
+    height: 250px;
+    width: 500px;
+}
+#visit {
+    font-family:serif;
+}
+ul {
+    font-size: 115%;
+}
+a:hover, a:focus {
+    color: magenta;
+    font-size: 300%
+}
